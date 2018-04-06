@@ -1,6 +1,5 @@
 # Use the latest Ubuntu base image
 FROM nginx:latest
-
 # Install php7 packages
 RUN apt-get install -y php7.0-fpm \
     php7.0-cli \
