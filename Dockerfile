@@ -1,7 +1,7 @@
 # Use the latest Ubuntu base image
 FROM ubuntu:16.04
 RUN apt-get update -y
-RUN apt-get install apache2
+RUN apt-get install apache2 -y
 RUN apt-get -y install php libapache2-mod-php php-mcrypt php-mysql mysql-client	
 RUN usermod -u 1000 www-data
 RUN usermod -a -G users www-data
