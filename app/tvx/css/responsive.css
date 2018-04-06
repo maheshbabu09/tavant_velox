@@ -1,0 +1,309 @@
+@media only screen and (min-width: 1800px) and (max-width: 1960px) {
+ .containerbiggerscreen {
+  width: 85%
+ }
+ .contactsec2 {
+  width: 85%;
+ }
+ .modal-dialog{
+	width: 900px;
+	height: 600px;
+ }
+.modal-content{
+	width: 900px;
+	height: 600px;
+ }
+ #vedio1 iframe {
+    height: 485px;
+	}
+	#vedio2 iframe {
+    height: 485px;
+	}
+}
+
+@media only screen and (min-width: 1600px) and (max-width: 1700px) {
+.testimonial-cont {
+   height: 37.25rem;
+}
+
+.testimonial-cont img {
+   width: 59rem !important;
+}
+
+.testimonial-cont img {
+   width: 55rem !important;
+}
+ 
+}
+
+@media only screen and (min-width: 1366px) and (max-width: 1500px) {
+.videoblock {
+    width: 11.188rem;
+    height: 2.875rem;
+    background: #000000;
+}
+}
+@media only screen and (min-width: 1200px) and (max-width: 1600px) {
+ html {
+  font-size: 12px
+ }
+ .htimage {
+  height: 8.5rem;
+ }
+ /*
+.pink-blue-box {
+    width: 18.75rem;
+    height: 18.75rem;
+}*/
+ /*************Product Page *************/
+ .awardimg {
+  display: none
+ }
+ .usecase-txt1 {
+  position: initial;
+  padding: 5rem 0;
+ }
+ /*************Product Page *************/
+ /****************Testimonial Page ********************/
+ .testimonial-cont img {
+  width: 47rem
+ }
+}
+
+@media only screen and (max-width: 1199px) {
+ html {
+  font-size: 12px
+ } /****contactus********/.part1{height:auto !important;}  .contry ul li a:before {	font-family: FontAwesome;	content:"\f061";	position: absolute;	left: -30px;	transition: all 500ms ease;}.contry ul li a:hover:before {	left: 10px;}.contry ul li a:hover{	padding-left: 5px;}
+ 
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+ html {
+  font-size: 8px
+ }
+ #mySidbtn {
+  right: 7rem
+ }
+ .patopbtm50ipad {
+  padding: 2rem 0;
+  margin: 0
+ }
+ .display-hover {
+  display: block;
+  opacity: 1;
+  visibility: visible;
+ }
+ .backgrounddots {
+  height: 76rem
+ }
+ .ht165 {
+  height: 16.31rem;
+ }
+ .htimage {
+  height: 14.5rem;
+ }
+ /********************************************Header *************************************/
+ .videoContainer {
+    height: 400px !important;
+	}
+	.videoContainer video{display:none}
+	.posbanner{bottom:65% !important;}
+	.height100per{height:auto !important;}
+	
+	 /********************************************Header *************************************/
+ /************************Product Page ****************************/
+ .awardimg {
+  display: none
+ }
+ .usecase-txt1 {
+  position: initial;
+  padding: 5rem 0;
+ }
+ /************************Product Page ****************************/
+ 
+ /************************Testimonial Page **************************/
+ .testimonial-cont {
+      height: 26.25rem;
+}
+
+.testimonial-cont img {
+   width: 40rem !important;
+}
+ .cardswidth{height:55rem}
+.cardswidth .cardcont{height:55rem}
+ .divline{height:55rem}
+ .divlineinside span, .divlineinside1 span{margin-top:10px}
+.cardht{ height: 55rem;}
+  /************************Testimonial Page **************************/
+ 
+.contactbar p {right: 10.625rem;}
+
+
+
+}
+
+
+
+@media only screen and (min-width : 768px) and (max-width : 1024px) and (orientation: landscape) {
+  /************************Testimonial Page **************************/
+.testimonial-cont {
+    height: 32.25rem;
+}
+
+.testimonial-cont img {
+    width: 53rem !important;
+}
+
+
+  /************************Testimonial Page **************************/
+ /********************************************Header *************************************/
+ .videoContainer {
+    height: 400px !important;
+	}
+	.videoContainer video{display:none}
+	.posbanner{bottom:65% !important}
+	.height100per{height:auto !important;}
+	 /********************************************Header *************************************/
+}
+
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+ html {
+  font-size: 7px
+ }
+ .fnt18 {
+    font-size: 2.125rem;
+}
+ .custm_widthbigger {
+  width: auto
+ }
+ .logo-img img {
+  width: 200px
+ }
+ #mySidbtn {
+  right: 35px
+ }
+ .width70permob {
+  width: 90%;
+ }
+ .width80permob {
+  width: 100%
+ }
+ .width90permob {
+  width: 100%
+ }
+ .backgrounddots {
+  height: auto
+ }
+ .banner_home h1 {
+  letter-spacing: 1rem
+ }
+ .display-hover {
+  display: block;
+  opacity: 1;
+  visibility: visible;
+ }
+ .backgrounddots {
+  height: 76rem
+ }
+ .pabtm100mob {
+  padding-bottom: 2rem
+ }
+ .ht165 {
+  height: auto
+ }
+ .htimage {
+  height: auto
+ }
+ .fnt64 {
+  font-size: 3rem
+ }
+ .fnt96 {
+  font-size: 5rem;
+ }
+ 
+ /********************************************Header *************************************/
+ .videoContainer {
+    height: 400px !important;
+	}
+	.videoContainer video{display:none}
+	.posbanner{bottom:45% !important;}
+	.height100per{height:auto !important;}
+	 /********************************************Header *************************************/
+	 
+ /*********************************************Product Page ******************************/
+ .productbanner img {
+  /*  height: 61.38rem;*/
+  width: 100%;
+ }
+ .productbanner h1 {
+  padding-bottom: 1.25rem;
+ }
+ .awardimg {
+  display: none
+ }
+ .usecase-txt1 {
+  position: initial;
+  padding: 5rem 0;
+ }
+ /*********************************************Product Page ******************************/
+ 
+ /********************************Testimonial Page *********************************/
+  .testimonial-cont {
+      height: auto;
+}
+ .col-width-left{width: 100%; position:initial; z-index:0; background:#ffffff}
+ .col-width-right{width: 100%; position:relative;  z-index:0}
+ .col-width-leftinside {
+    position: initial;
+  z-index:0
+ }
+ .mancontent2{right:0}
+  .mancontent1{left:0}
+.testimonial-cont img {
+      width: 100%;
+    margin: 0 auto;
+    display: block;
+}
+ .videoblock {
+    width: 19rem;
+    height: 5.875rem;
+ }
+ 
+ .divline{display:none;}
+ .cardswidth .cardcont{width:100%}
+ .sectionfitinblock{position:initial}
+ .cardht {
+    height: auto;
+}
+ .cardht2{height:auto;}
+ .cardswidth{height:auto}
+ .cardswidth .cardcont{height:auto;margin-bottom:3.25rem}
+
+ /*************Footer *****************/
+ footer ul {
+  padding-left: 15px
+ }
+ footer ul li {
+  text-align: left !important;
+ }
+ .social,
+ .pull-right {
+  float: none !important;
+ }
+ .social i {
+  padding: 20px 0px 20px 15px !important;
+ }
+ /*************Footer *****************/
+ /********form popup****************/
+.popform .modal-dialog{
+ width: auto;
+}
+ /*******contact page *****/
+  .contactbar{display:none;}
+  .height700{height:auto;}
+  .btnmobile {	display: block;}
+  .mobilepb20{padding-bottom:20px;}
+   /*******contact page *****/
+   
+  
+ 
