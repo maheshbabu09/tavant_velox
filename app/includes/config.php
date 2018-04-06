@@ -6,7 +6,7 @@ session_start();
 date_default_timezone_set('Asia/Kolkata');
 
 //database credentials
-define('DBHOST','mysql');
+define('DBHOST','veloxmysql');
 define('DBUSER','root');
 define('DBPASS','tavantvelox@2018');
 define('DBNAME','tavant_velox');
