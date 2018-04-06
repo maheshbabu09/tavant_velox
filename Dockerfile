@@ -1,7 +1,7 @@
 # Use the latest Ubuntu base image
 FROM ubuntu:16.04
 
-RUN apt-get update -qqy && apt-get install -qqy software-properties-common python-software-properties
+RUN apt-get update -y
 
 # Install nginx
 RUN apt-get -y install httpd
@@ -9,7 +9,7 @@ RUN apt-get -y install httpd
 RUN apt-get install -y php5.6
 
 # Install other software
-RUN apt-get install -qqy mysql-client
+RUN apt-get install -y mysql-client
 	
 RUN usermod -u 1000 www-data
 RUN usermod -a -G users www-data
