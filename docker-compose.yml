@@ -5,7 +5,6 @@ services:
         ports:
             - "8000:80"
             - "3000:443"
-        restart: always
         depends_on:
             - mysqldb
     mysqldb:
