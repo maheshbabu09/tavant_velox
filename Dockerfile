@@ -2,7 +2,7 @@
 FROM ubuntu:16.04
 RUN apt-get update -y
 # Install httpd
-RUN apt-get -y install httpd
+RUN apt-get -y install apache2
 
 # Install php7 packages
 RUN apt-get install -y php5.6
