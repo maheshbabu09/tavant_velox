@@ -16,4 +16,4 @@ RUN chmod -R 555 /var/www/html/
 
 # Expose Ports
 EXPOSE 8000
-ENTRYPOINT ["/bin/bash", "-c", "service httpd start"]
+ENTRYPOINT ["/bin/bash", "-c", "/etc/init.d/apache2 start"]
